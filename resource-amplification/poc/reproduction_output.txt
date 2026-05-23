@@ -1,0 +1,13 @@
+$ python poc_dos.py
+Built v16_dos.onnx shape=[32768,32768] size=0.5KB
+
+[Report]
+model_kb: 0.4560546875
+rss_mb_base: 1800.41
+rss_mb_after_init: 1800.41
+rss_mb_peak: 10198.77
+rss_mb_delta_after_init_to_peak: 8398.36
+wall_sec: 12.59
+cpu_user_sec: 7.08
+cpu_system_sec: 4.04
+result: OK: security=1.0 sum=134217728.0
